@@ -1,9 +1,9 @@
 package com.wp.test;
 
 import com.wp.framework.RpcFramework;
-import com.wp.test.service.impl.ByeServiceImpl;
 import com.wp.test.service.ByeService;
 import com.wp.test.service.HelloService;
+import com.wp.test.service.impl.ByeServiceImpl;
 import com.wp.test.service.impl.HelloServiceImpl;
 
 public class Provider {
